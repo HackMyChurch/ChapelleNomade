@@ -1,11 +1,12 @@
 # Chapelle Nomade (HackMyChurch)
 Projet « Chapelle nomade »
 
+---
 
-Dispositif
+## Dispositif
 
-Fonctionnement
+## Fonctionnement
 
-Électronique (makey makey)
+## Électronique (makey makey)
 
-Photos
+## Photos
